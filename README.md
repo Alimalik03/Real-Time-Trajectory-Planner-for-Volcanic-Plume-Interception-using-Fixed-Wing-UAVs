@@ -122,7 +122,7 @@ In every scenario the plume was intercepted within the **10 m** 3-D tolerance.
 ### Autopilot response: spiral climb (Scenario 4)
 
 <p align="center">
-  <img src="pictur4.png" alt="Altitude, course and airspeed tracking" width="800"><br>
+  <img src="picture4.png" alt="Altitude, course and airspeed tracking" width="800"><br>
   <em>Commanded vs. actual altitude, course and airspeed</em>
 </p>
 
