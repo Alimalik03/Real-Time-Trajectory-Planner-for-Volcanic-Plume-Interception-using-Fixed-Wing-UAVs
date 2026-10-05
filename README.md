@@ -6,7 +6,7 @@
 A MATLAB framework that plans and flies dynamically feasible trajectories for a fixed-wing UAV to intercept a volcanic plume. It combines a **trajectory planner** that works in two phases (heading, then altitude), **waypoint guidance** that switches segments with a half-plane test, and a **cascaded PID autopilot**. These run in closed loop around a **nonlinear 6-DOF flight dynamics model** of the Aerosonde UAV, integrated with RK4.
 
 <p align="center">
-  <img src="picture4.png" alt="Trajectory tracking results across four interception scenarios" width="850">
+  <img src="picture1.png" alt="Trajectory tracking results across four interception scenarios" width="850">
 </p>
 
 ---
@@ -18,7 +18,7 @@ Fixed-wing UAVs are used to fly into volcanic plumes and sample them (for exampl
 ## Framework
 
 <p align="center">
-  <img src="images/framework.png" alt="Trajectory planning framework" width="650">
+  <img src="picture16.png" alt="Trajectory planning framework" width="650">
 </p>
 
 | Layer | What it does | Key files |
@@ -122,12 +122,12 @@ In every scenario the plume was intercepted within the **10 m** 3-D tolerance.
 ### Autopilot response: spiral climb (Scenario 4)
 
 <p align="center">
-  <img src="images/altitude_course_airspeed.png" alt="Altitude, course and airspeed tracking" width="800"><br>
+  <img src="pictur4.png" alt="Altitude, course and airspeed tracking" width="800"><br>
   <em>Commanded vs. actual altitude, course and airspeed</em>
 </p>
 
 <p align="center">
-  <img src="images/pitch_roll.png" alt="Pitch and roll tracking" width="650"><br>
+  <img src="picture3.png" alt="Pitch and roll tracking" width="650"><br>
   <em>Commanded vs. actual pitch (θ) and roll (φ)</em>
 </p>
 
