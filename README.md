@@ -1,1 +1,0 @@
-# Real-Time-Trajectory-Planner-for-Volcanic-Plume-Interception-using-Fixed-Wing-UAVs
