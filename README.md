@@ -9,6 +9,10 @@ A MATLAB framework that plans and flies dynamically feasible trajectories for a 
   <img src="picture1.png" alt="Trajectory tracking results across four interception scenarios" width="850">
 </p>
 
+<p align="center">
+  <img src="picture2.png" alt="Trajectory tracking results across four interception scenarios" width="850">
+</p>
+
 ---
 
 ## Motivation
