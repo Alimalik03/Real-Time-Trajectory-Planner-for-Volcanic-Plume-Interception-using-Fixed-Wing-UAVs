@@ -6,7 +6,7 @@
 A MATLAB framework that plans and flies dynamically feasible trajectories for a fixed-wing UAV to intercept a volcanic plume. It combines a **trajectory planner** that works in two phases (heading, then altitude), **waypoint guidance** that switches segments with a half-plane test, and a **cascaded PID autopilot**. These run in closed loop around a **nonlinear 6-DOF flight dynamics model** of the Aerosonde UAV, integrated with RK4.
 
 <p align="center">
-  <img src="project_2_fig_1.png " alt="Trajectory tracking results across four interception scenarios" width="850">
+  <img src="picture4.png" alt="Trajectory tracking results across four interception scenarios" width="850">
 </p>
 
 ---
